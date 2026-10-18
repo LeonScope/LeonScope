@@ -33,10 +33,25 @@ Das Kundenprojekt ist abgeschlossen. Quellcode und Geschäftsdaten bleiben vertr
 | Webentwicklung | PHP · Laravel · JavaScript · SQL · Git |
 | Entwicklungspraxis | Prozessanalyse · Prototypenentwicklung · Workflow-Automatisierung · APIs · Datenvalidierung |
 
-## Ausgewählte KI-Weiterbildung
+## KI-Weiterbildung
 
-- **Google / Coursera — AI for App Building**, abgeschlossen im Oktober 2026.
-- **AWS Training & Certification — Foundations of Prompt Engineering**, abgeschlossen im Oktober 2026.
+**Google / Coursera — acht abgeschlossene KI-Kurse**, Oktober 2026.
+
+<details>
+<summary>Alle acht Google-Kurse anzeigen</summary>
+
+- AI Fundamentals
+- AI for Brainstorming and Planning
+- AI for Writing and Communicating
+- AI for Research and Insights
+- AI for Content Creation
+- AI for Data Analysis
+- AI for App Building
+- AI for App Deployment
+
+</details>
+
+**AWS Training & Certification — Foundations of Prompt Engineering**, abgeschlossen im Oktober 2026.
 
 ## Aktueller Fokus
 

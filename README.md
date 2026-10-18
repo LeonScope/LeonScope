@@ -33,10 +33,25 @@ This is a completed client project. Source code and business data remain confide
 | Web development | PHP · Laravel · JavaScript · SQL · Git |
 | Engineering | Process analysis · Prototyping · Workflow automation · APIs · Data validation |
 
-## Selected AI training
+## AI training
 
-- **Google / Coursera — AI for App Building**, completed October 2026.
-- **AWS Training & Certification — Foundations of Prompt Engineering**, completed October 2026.
+**Google / Coursera — 8 completed AI courses**, October 2026.
+
+<details>
+<summary>View all eight Google courses</summary>
+
+- AI Fundamentals
+- AI for Brainstorming and Planning
+- AI for Writing and Communicating
+- AI for Research and Insights
+- AI for Content Creation
+- AI for Data Analysis
+- AI for App Building
+- AI for App Deployment
+
+</details>
+
+**AWS Training & Certification — Foundations of Prompt Engineering**, completed October 2026.
 
 ## Current focus
 
