@@ -29,6 +29,12 @@ Die öffentliche Präsentation enthält Screenshots, eine Fallstudie und dokumen
 
 [Fallstudie](https://github.com/LeonScope/service-status-monitor/blob/main/docs/CASE-STUDY.de.md) · [Prüfergebnisse](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.de.md)
 
+**[Scope Vision · Visual Quality Inspector](https://github.com/LeonScope/visual-quality-inspector/blob/main/README.de.md)** — lokale Bildprüfung mit berechneten Abweichungsmarkierungen, getrennten menschlichen Bewertungen und nachvollziehbarem Prüfverlauf. Verbindet ein vortrainiertes Bildnetz mit lokal gelernten normalen Bildmerkmalen.
+
+**46 automatisierte Anwendungs-/Modellprüfungen und acht Browserabläufe in einer frischen lokalen Kopie bestanden.** Auf 180 getrennten synthetischen Testbildern: 120 von 120 Fehlern erkannt, kein Fehlalarm bei 60 fehlerfreien Bildern. Diese Messung gilt für die begrenzte synthetische Aufgabe; eine industrielle Zuverlässigkeit wird nicht behauptet. Quellcode, Trainingsdaten und Modell bleiben privat.
+
+[Fallstudie](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/CASE-STUDY.de.md) · [Prüfergebnisse](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.de.md)
+
 **Data Integrity Toolkit** — ein privates, offline ausgerichtetes Werkzeug zur Prüfung von Vollständigkeit und Konsistenz von Forschungsexporten. Fehlende oder ungeprüfte Angaben bleiben von bestätigten Ergebnissen unterscheidbar.
 
 Die vereinfachte Übersicht zeigt die Funktion; sie ist weder eine Live-Ansicht der Anwendung noch eine Offenlegung der zugrunde liegenden Eingaben.
@@ -64,6 +70,7 @@ Das Kundenprojekt ist abgeschlossen. Quellcode und Geschäftsdaten bleiben vertr
 | --- | --- |
 | Robotik und Bildverarbeitung | Universal Robots · SensoPart VISOR · Kameragestützte Prüfung · Training bildbasierter Prüfmodelle |
 | Webentwicklung | PHP · Laravel · JavaScript · TypeScript · React · Node.js · SQL · Git |
+| Computer Vision im Portfolio | Python · PyTorch · Vortrainierte Bildmerkmale · Anomalieerkennung · Getrennte Modellauswertung |
 | Entwicklungspraxis | Prozessanalyse · Prototypenentwicklung · Workflow-Automatisierung · APIs · Datenvalidierung |
 
 ## KI-Weiterbildung

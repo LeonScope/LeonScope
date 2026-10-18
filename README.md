@@ -29,6 +29,12 @@ The public presentation includes screenshots, a case study and documented local 
 
 [Case study](https://github.com/LeonScope/service-status-monitor/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.md)
 
+**[Scope Vision · Visual Quality Inspector](https://github.com/LeonScope/visual-quality-inspector)** — local image inspection with computed anomaly maps, separate human assessments and a traceable inspection history. Combines a pretrained image network with locally fitted normal-feature distributions.
+
+**46 automated application/model checks and 8 browser workflows passed in a fresh local copy.** On 180 separate synthetic test images: 120 of 120 defects detected, with no false alarm among 60 normal images. This measurement applies to the limited synthetic task; industrial reliability is not claimed. Source code, training data and model remain private.
+
+[Case study](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.md)
+
 **Data Integrity Toolkit** — a private, offline-oriented tool for checking the completeness and consistency of research exports. Missing or unverified information stays distinct from confirmed results.
 
 The simplified walkthrough below illustrates the function; it is not a live application view or a disclosure of the underlying inputs.
@@ -64,6 +70,7 @@ This is a completed client project. Source code and business data remain confide
 | --- | --- |
 | Robotics & machine vision | Universal Robots · SensoPart VISOR · Camera-based inspection · Image-based model training |
 | Web development | PHP · Laravel · JavaScript · TypeScript · React · Node.js · SQL · Git |
+| Computer vision portfolio | Python · PyTorch · Pretrained image features · Anomaly detection · Held-out model evaluation |
 | Engineering | Process analysis · Prototyping · Workflow automation · APIs · Data validation |
 
 ## AI training
