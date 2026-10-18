@@ -29,6 +29,18 @@ The public presentation includes screenshots, a case study and documented local 
 
 [Case study](https://github.com/LeonScope/service-status-monitor/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.md)
 
+**Data Integrity Toolkit** — a private, offline-oriented tool for checking the completeness and consistency of research exports. Missing or unverified information stays distinct from confirmed results.
+
+The simplified walkthrough below illustrates the function; it is not a live application view or a disclosure of the underlying inputs.
+
+| Situation | Visible outcome |
+| --- | --- |
+| Complete, consistent input | A clear verification result |
+| Changed or contradictory input | Rejection or an explicit inconsistency |
+| Incomplete input | Missing information stays visible; no value is invented |
+
+Developed with AI assistance, focusing on data validation and careful testing. Additional integration checks are in preparation. Source code, datasets, domain rules, internal test material and implementation details remain private.
+
 ## Selected experience
 
 ### Robotics, AI & machine vision — ZF Friedrichshafen AG

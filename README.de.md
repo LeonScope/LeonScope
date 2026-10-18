@@ -29,6 +29,18 @@ Die öffentliche Präsentation enthält Screenshots, eine Fallstudie und dokumen
 
 [Fallstudie](https://github.com/LeonScope/service-status-monitor/blob/main/docs/CASE-STUDY.de.md) · [Prüfergebnisse](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.de.md)
 
+**Data Integrity Toolkit** — ein privates, offline ausgerichtetes Werkzeug zur Prüfung von Vollständigkeit und Konsistenz von Forschungsexporten. Fehlende oder ungeprüfte Angaben bleiben von bestätigten Ergebnissen unterscheidbar.
+
+Die vereinfachte Übersicht zeigt die Funktion; sie ist weder eine Live-Ansicht der Anwendung noch eine Offenlegung der zugrunde liegenden Eingaben.
+
+| Situation | Sichtbares Ergebnis |
+| --- | --- |
+| Vollständige, konsistente Eingabe | Ein klares Prüfergebnis |
+| Veränderte oder widersprüchliche Eingabe | Zurückweisung oder ein ausdrücklicher Hinweis auf die Unstimmigkeit |
+| Unvollständige Eingabe | Fehlende Angaben bleiben sichtbar; Werte werden nicht erfunden |
+
+Mit KI-Unterstützung entwickelt, mit Schwerpunkt auf Datenvalidierung und sorgfältigen Tests. Weitere Integrationsprüfungen sind in Vorbereitung. Quellcode, Datensätze, Fachregeln, interne Testunterlagen und Implementierungsdetails bleiben privat.
+
 ## Ausgewählte Erfahrung
 
 ### Robotik, KI und Bildverarbeitung — ZF Friedrichshafen AG
