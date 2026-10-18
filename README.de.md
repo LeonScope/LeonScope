@@ -20,6 +20,11 @@ PHP · Laravel · JavaScript · SQL · Git
 
 Geschäftsanwendungen · Workflow-Automatisierung · APIs · Datenvalidierung
 
+## Ausgewählte KI-Weiterbildung
+
+- **Google / Coursera — AI for App Building**, abgeschlossen im Oktober 2026.
+- **AWS Training & Certification — Foundations of Prompt Engineering**, abgeschlossen im Oktober 2026.
+
 ## Aktueller Fokus
 
 Ich bereite eine eigenständige CRM-Demonstration mit neutralem Auftritt und synthetischen Daten vor. Das öffentliche Repository ergänze ich, sobald der Hauptablauf, die Installation und die automatisierten Prüfungen verifiziert sind.

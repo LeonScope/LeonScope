@@ -20,6 +20,11 @@ PHP · Laravel · JavaScript · SQL · Git
 
 Business applications · Workflow automation · APIs · Data validation
 
+## Selected AI training
+
+- **Google / Coursera — AI for App Building**, completed October 2026.
+- **AWS Training & Certification — Foundations of Prompt Engineering**, completed October 2026.
+
 ## Current focus
 
 Preparing an independent CRM portfolio demonstration with neutral branding and synthetic data. The public repository will be added once its core workflow, setup instructions and automated checks have been verified.
