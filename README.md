@@ -8,13 +8,20 @@ I develop software and automation for practical business and manufacturing workf
 
 I work from clear requirements through prototyping, implementation, testing and documentation. My goal is to make each solution understandable, useful and verifiable.
 
-## Featured project
+## Featured projects
 
 **[CRM Portfolio Demo](https://github.com/LeonScope/crm-portfolio-demo)** — an independent Laravel CRM with customer assignments, appointments, activity history and a CSV import with preview and confirmation. Built with AI assistance and synthetic data.
 
 The public presentation includes screenshots, a case study and documented local results: **53 application tests, 430 assertions and 4 browser workflows passed**. Application source remains private; no open-source license is granted.
 
 [Case study](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.md)
+
+
+**[Scope Audit · Website Audit Dashboard](https://github.com/LeonScope/website-audit-dashboard)** — a TypeScript and React application for bounded website checks, internal link reports, local history and JSON/CSV exports. Findings distinguish confirmed error statuses from unverified results.
+
+**64 automated application tests and 5 browser workflows passed in a fresh local copy.** The presentation includes desktop/mobile screenshots and a separate real HTTP smoke check. Application source remains private.
+
+[Case study](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.md)
 
 ## Selected experience
 
@@ -38,7 +45,7 @@ This is a completed client project. Source code and business data remain confide
 | Area | Experience |
 | --- | --- |
 | Robotics & machine vision | Universal Robots · SensoPart VISOR · Camera-based inspection · Image-based model training |
-| Web development | PHP · Laravel · JavaScript · SQL · Git |
+| Web development | PHP · Laravel · JavaScript · TypeScript · React · Node.js · SQL · Git |
 | Engineering | Process analysis · Prototyping · Workflow automation · APIs · Data validation |
 
 ## AI training

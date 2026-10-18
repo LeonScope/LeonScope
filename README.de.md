@@ -8,13 +8,20 @@ Ich entwickle Software und Automatisierung für praktische Geschäfts- und Ferti
 
 Ich arbeite von klaren Anforderungen über Prototypen und Umsetzung bis zu Tests und Dokumentation. Meine Lösungen sollen verständlich, nützlich und überprüfbar sein.
 
-## Referenzprojekt
+## Referenzprojekte
 
 **[CRM Portfolio Demo](https://github.com/LeonScope/crm-portfolio-demo/blob/main/README.de.md)** — ein eigenständiges Laravel-CRM mit Kundenzuständigkeiten, Terminen, Änderungsverlauf und CSV-Import mit Vorschau und Bestätigung. Mit KI-Unterstützung und erfundenen Daten entwickelt.
 
 Die öffentliche Präsentation enthält Screenshots, eine Fallstudie und dokumentierte lokale Ergebnisse: **53 Anwendungstests, 430 Einzelprüfungen und 4 Browserabläufe bestanden**. Der Anwendungscode bleibt privat; eine Open-Source-Lizenz wird nicht erteilt.
 
 [Fallstudie](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/CASE-STUDY.de.md) · [Prüfergebnisse](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.de.md)
+
+
+**[Scope Audit · Website Audit Dashboard](https://github.com/LeonScope/website-audit-dashboard/blob/main/README.de.md)** — eine Anwendung mit TypeScript und React für begrenzte Website-Prüfungen, interne Links, lokalen Berichtsverlauf und JSON-/CSV-Exporte. Bestätigte Fehlerstatus und unbestimmte Ergebnisse bleiben unterscheidbar.
+
+**64 automatisierte Anwendungstests und fünf Browserabläufe in einer frischen lokalen Kopie bestanden.** Die Präsentation enthält Desktop-/Smartphone-Ansichten und einen gesonderten echten HTTP-Abruf. Der Anwendungscode bleibt privat.
+
+[Fallstudie](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/CASE-STUDY.de.md) · [Prüfergebnisse](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.de.md)
 
 ## Ausgewählte Erfahrung
 
@@ -38,7 +45,7 @@ Das Kundenprojekt ist abgeschlossen. Quellcode und Geschäftsdaten bleiben vertr
 | Bereich | Erfahrung |
 | --- | --- |
 | Robotik und Bildverarbeitung | Universal Robots · SensoPart VISOR · Kameragestützte Prüfung · Training bildbasierter Prüfmodelle |
-| Webentwicklung | PHP · Laravel · JavaScript · SQL · Git |
+| Webentwicklung | PHP · Laravel · JavaScript · TypeScript · React · Node.js · SQL · Git |
 | Entwicklungspraxis | Prozessanalyse · Prototypenentwicklung · Workflow-Automatisierung · APIs · Datenvalidierung |
 
 ## KI-Weiterbildung
