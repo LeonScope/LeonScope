@@ -8,6 +8,14 @@ I develop software and automation for practical business and manufacturing workf
 
 I work from clear requirements through prototyping, implementation, testing and documentation. My goal is to make each solution understandable, useful and verifiable.
 
+## Featured project
+
+**[CRM Portfolio Demo](https://github.com/LeonScope/crm-portfolio-demo)** — an independent Laravel CRM with customer assignments, appointments, activity history and a CSV import with preview and confirmation. Built with AI assistance and synthetic data.
+
+The public presentation includes screenshots, a case study and documented local results: **53 application tests, 430 assertions and 4 browser workflows passed**. Application source remains private; no open-source license is granted.
+
+[Case study](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.md)
+
 ## Selected experience
 
 ### Robotics, AI & machine vision — ZF Friedrichshafen AG
@@ -52,9 +60,5 @@ This is a completed client project. Source code and business data remain confide
 </details>
 
 **AWS Training & Certification — Foundations of Prompt Engineering**, completed October 2026.
-
-## Current focus
-
-Preparing an independent CRM portfolio demonstration with neutral branding and synthetic data. The public repository will be added once its core workflow, setup instructions and automated checks have been verified.
 
 [Explore my public repositories](https://github.com/LeonScope?tab=repositories)

@@ -8,6 +8,14 @@ Ich entwickle Software und Automatisierung für praktische Geschäfts- und Ferti
 
 Ich arbeite von klaren Anforderungen über Prototypen und Umsetzung bis zu Tests und Dokumentation. Meine Lösungen sollen verständlich, nützlich und überprüfbar sein.
 
+## Referenzprojekt
+
+**[CRM Portfolio Demo](https://github.com/LeonScope/crm-portfolio-demo/blob/main/README.de.md)** — ein eigenständiges Laravel-CRM mit Kundenzuständigkeiten, Terminen, Änderungsverlauf und CSV-Import mit Vorschau und Bestätigung. Mit KI-Unterstützung und erfundenen Daten entwickelt.
+
+Die öffentliche Präsentation enthält Screenshots, eine Fallstudie und dokumentierte lokale Ergebnisse: **53 Anwendungstests, 430 Einzelprüfungen und 4 Browserabläufe bestanden**. Der Anwendungscode bleibt privat; eine Open-Source-Lizenz wird nicht erteilt.
+
+[Fallstudie](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/CASE-STUDY.de.md) · [Prüfergebnisse](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.de.md)
+
 ## Ausgewählte Erfahrung
 
 ### Robotik, KI und Bildverarbeitung — ZF Friedrichshafen AG
@@ -52,9 +60,5 @@ Das Kundenprojekt ist abgeschlossen. Quellcode und Geschäftsdaten bleiben vertr
 </details>
 
 **AWS Training & Certification — Foundations of Prompt Engineering**, abgeschlossen im Oktober 2026.
-
-## Aktueller Fokus
-
-Ich bereite eine eigenständige CRM-Demonstration mit neutralem Auftritt und synthetischen Daten vor. Das öffentliche Repository ergänze ich, sobald der Hauptablauf, die Installation und die automatisierten Prüfungen verifiziert sind.
 
 [Meine öffentlichen Repositories ansehen](https://github.com/LeonScope?tab=repositories)
