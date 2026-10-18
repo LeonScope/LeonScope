@@ -23,6 +23,12 @@ Die öffentliche Präsentation enthält Screenshots, eine Fallstudie und dokumen
 
 [Fallstudie](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/CASE-STUDY.de.md) · [Prüfergebnisse](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.de.md)
 
+**[Scope Monitor · Service Status Monitor](https://github.com/LeonScope/service-status-monitor/blob/main/README.de.md)** — regelmäßige HTTP-Prüfungen, Antwortzeitverlauf und Störungen, die durch aufeinanderfolgende Messungen bestätigt werden. Mit Pause/Fortsetzung, JSON-/CSV-Exporten und lokalem Ereignisprotokoll.
+
+**72 automatisierte Anwendungstests und acht Browserabläufe in einer frischen lokalen Kopie bestanden.** Die Präsentation trennt simulierte Beispiele von einem gesonderten echten HTTP-Abruf. Die Überwachung läuft lokal; der Anwendungscode bleibt privat.
+
+[Fallstudie](https://github.com/LeonScope/service-status-monitor/blob/main/docs/CASE-STUDY.de.md) · [Prüfergebnisse](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.de.md)
+
 ## Ausgewählte Erfahrung
 
 ### Robotik, KI und Bildverarbeitung — ZF Friedrichshafen AG

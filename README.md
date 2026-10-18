@@ -23,6 +23,12 @@ The public presentation includes screenshots, a case study and documented local 
 
 [Case study](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.md)
 
+**[Scope Monitor · Service Status Monitor](https://github.com/LeonScope/service-status-monitor)** — scheduled HTTP checks, response-time history and incidents confirmed by consecutive observations. Includes pause/resume, JSON/CSV exports and a local event journal.
+
+**72 automated application tests and 8 browser workflows passed in a fresh local copy.** The presentation distinguishes synthetic examples from a separate real HTTP check. Monitoring runs locally; application source remains private.
+
+[Case study](https://github.com/LeonScope/service-status-monitor/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.md)
+
 ## Selected experience
 
 ### Robotics, AI & machine vision — ZF Friedrichshafen AG
