@@ -4,21 +4,34 @@
 
 **Full-Stack Developer · AI-Assisted Product Builder**
 
-I build practical web applications for business workflows, with a focus on customer management, automation and structured data.
+I develop software and automation for practical business and manufacturing workflows. My experience connects industrial robotics, machine vision and web applications with AI-assisted product development.
 
-My approach combines AI-assisted development with clear requirements, readable implementation, testing and documentation. I aim to make each project easy to understand, run and evaluate.
+I work from clear requirements through prototyping, implementation, testing and documentation. My goal is to make each solution understandable, useful and verifiable.
 
 ## Selected experience
 
-**Private client CRM** — Designed, developed and deployed a web-based CRM, including customer management, appointments, role-based workflows, data import and integration into the client's operations.
+### Robotics, AI & machine vision — ZF Friedrichshafen AG
 
-The client source code and business data remain confidential. This is historical project experience; I do not monitor or maintain the client's current production environment.
+**Software Developer · KTC Saarbrücken · Research & Development · 2021–2024**
+
+- Analyzed manufacturing and assembly processes, developed lab prototypes, and configured robots, vision software and graphical user interfaces.
+- Independently built and configured an inspection prototype combining a **Universal Robots** robot with a **SensoPart VISOR** camera system. The robot presented machined mechatronic plates to the camera in defined poses and angles, then sorted them by inspection result.
+- Trained image-based inspection models, tuned grayscale tolerances and compensated for lighting variations for use across three shifts. Produced technical drawings for mechanical components fabricated by the in-house toolmaking team.
+- After presentation and refinement, the department progressively integrated the solution across **12 production lines**, standardizing quality assessment and helping reduce labor and scrap costs.
+
+### Business applications — private client CRM
+
+Designed, developed and deployed a web-based CRM with customer management, appointments, role-based workflows, data import and integration into the client's operations.
+
+This is a completed client project. Source code and business data remain confidential; current production operation is outside the scope of this portfolio.
 
 ## Technical focus
 
-PHP · Laravel · JavaScript · SQL · Git
-
-Business applications · Workflow automation · APIs · Data validation
+| Area | Experience |
+| --- | --- |
+| Robotics & machine vision | Universal Robots · SensoPart VISOR · Camera-based inspection · Image-based model training |
+| Web development | PHP · Laravel · JavaScript · SQL · Git |
+| Engineering | Process analysis · Prototyping · Workflow automation · APIs · Data validation |
 
 ## Selected AI training
 
