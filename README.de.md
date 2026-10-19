@@ -8,17 +8,18 @@ Ich komme aus der Robotik und kameragestützten Qualitätsprüfung. Bei ZF habe 
 
 ## Ausgewählte Projekte
 
-Diese fünf Anwendungen laufen lokal. Auf den Projektseiten findest du Screenshots, die Überlegungen zur Umsetzung und die Testergebnisse.
+Diese sechs Anwendungen laufen lokal. Auf den Projektseiten findest du Screenshots, die Überlegungen zur Umsetzung und die Testergebnisse.
 
 | Projekt | Was es macht | Zum Weiterlesen |
 | :--- | :--- | :--- |
+| **[Scope Cell](https://github.com/LeonScope/scope-cell/blob/main/README.de.md)** | Simuliert eine UR5e-Prüfzelle mit sichtbaren Bewegungsbefehlen, Bauteilverfolgung und Wiederaufnahme nach Störungen. | [Bewegung, Geometrie und Ablaufprüfungen](https://github.com/LeonScope/scope-cell/blob/main/docs/VERIFICATION.de.md) |
 | **[Scope Assist](https://github.com/LeonScope/scope-assist/blob/main/README.de.md)** | Beantwortet Fragen zu ausgewählten technischen Unterlagen mit einem lokalen Sprachmodell und öffnet die zitierte Stelle. | [Modellprüfung und Grenzen](https://github.com/LeonScope/scope-assist/blob/main/docs/VERIFICATION.de.md) |
 | **[Scope Vision](https://github.com/LeonScope/visual-quality-inspector/blob/main/README.de.md)** | Erkennt Kratzer und fehlende Bohrungen in erzeugten Bildern von Metallplatten. Anschließend lässt sich eine menschliche Bewertung festhalten. | [Modellauswertung und Tests](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.de.md) |
 | **[Scope CRM](https://github.com/LeonScope/crm-portfolio-demo/blob/main/README.de.md)** | Hält Kundenzuständigkeiten, Termine und Notizen zusammen. CSV-Importe werden vor dem Speichern geprüft. | [Rollen, Import und Browsertests](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.de.md) |
 | **[Scope Audit](https://github.com/LeonScope/website-audit-dashboard/blob/main/README.de.md)** | Prüft HTML und interne Links einer Seite, erklärt die Befunde und speichert den Bericht. | [Prüfungen und Grenzen](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.de.md) |
 | **[Scope Monitor](https://github.com/LeonScope/service-status-monitor/blob/main/README.de.md)** | Prüft HTTP-Dienste in regelmäßigen Abständen und hält Fehler sowie die anschließende Erholung im Verlauf fest. | [Monitoringregeln und Tests](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.de.md) |
 
-Die Projekte habe ich mit Codex entwickelt. Die Fallstudien erklären meinen Anteil und den Einsatz der KI. **Öffentlich sind nur die Präsentationen.** Der Quellcode bleibt privat, bei Scope Vision auch Modell sowie Trainings-, Kalibrierungs- und Testdaten. Bei Scope Assist bleiben zusätzlich Modelldateien, Dokumentensammlung und Suchindex privat. Für das eigene Portfolio-Material wird keine Open-Source-Lizenz erteilt. Die Beispiele verwenden erzeugte Daten; die Ergebnisse stammen aus lokalen Tests und nicht aus dem Produktivbetrieb.
+Die Projekte habe ich mit Codex entwickelt. Die Fallstudien erklären meinen Anteil und den Einsatz der KI. **Öffentlich sind nur die Präsentationen.** Der Quellcode bleibt privat, bei Scope Vision auch Modell sowie Trainings-, Kalibrierungs- und Testdaten. Bei Scope Assist bleiben zusätzlich Modelldateien, Dokumentensammlung und Suchindex privat. Die Laufzeit von Scope Cell und die lokalen Kopien des Robotermodells werden hier ebenfalls nicht veröffentlicht. Für das eigene Portfolio-Material wird keine Open-Source-Lizenz erteilt. Die Beispiele verwenden erzeugte Daten; die Ergebnisse stammen aus lokalen Tests und nicht aus dem Produktivbetrieb.
 
 ### X Model Automation
 
