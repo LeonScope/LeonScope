@@ -4,53 +4,52 @@
 
 **Full-Stack Developer · AI-Assisted Product Builder**
 
-I develop software and automation for practical business and manufacturing workflows. My experience connects industrial robotics, machine vision and web applications with AI-assisted product development.
+My background is in robotics and camera-based quality inspection. At ZF, I built lab prototypes that combined robots, cameras and inspection software. Today I work on web applications and automation, using AI tools throughout development.
 
-I work from clear requirements through prototyping, implementation, testing and documentation. My goal is to make each solution understandable, useful and verifiable.
+## Selected projects
 
-## Selected portfolio
+These four applications run locally. Each project page includes screenshots, the reasoning behind the implementation and test results.
 
-Four functional local projects show different parts of my work. Each presentation contains application screenshots, a case study, documented checks and explicit limits. The interfaces use distinct visual styles suited to their tasks.
-
-| Project | Practical focus | Evidence |
+| Project | What it does | More detail |
 | :--- | :--- | :--- |
-| **[Scope Vision](https://github.com/LeonScope/visual-quality-inspector)** | Image inspection, computed anomaly maps and recorded human assessments. Industrial console connected to my machine-vision experience. | [Model evaluation and application checks](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.md) |
-| **[Scope CRM](https://github.com/LeonScope/crm-portfolio-demo)** | Customer ownership, appointments, change history and CSV import with validation and confirmation. | [Roles, import and browser workflows](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.md) |
-| **[Scope Audit](https://github.com/LeonScope/website-audit-dashboard)** | Readable HTML and link reports with concrete recommendations, uncertainty and local history. | [Analysis, request boundaries and exports](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.md) |
-| **[Scope Monitor](https://github.com/LeonScope/service-status-monitor)** | Scheduled HTTP observations, incident confirmation and traceable recovery. | [Monitoring rules and complete workflows](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.md) |
+| **[Scope Vision](https://github.com/LeonScope/visual-quality-inspector)** | Finds scratches and missing holes in generated images of metal plates, then records a person's review. | [Model evaluation and tests](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.md) |
+| **[Scope CRM](https://github.com/LeonScope/crm-portfolio-demo)** | Keeps customer assignments, appointments and notes together. CSV imports are checked before they are saved. | [Roles, import and browser tests](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.md) |
+| **[Scope Audit](https://github.com/LeonScope/website-audit-dashboard)** | Checks a page's HTML and internal links, explains the findings and saves the report. | [Checks and limitations](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.md) |
+| **[Scope Monitor](https://github.com/LeonScope/service-status-monitor)** | Checks HTTP services at regular intervals and keeps a record of failures and recovery. | [Monitoring rules and tests](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.md) |
 
-These projects were built with AI assistance; the respective case studies explain my role and the assistance used. Public repositories contain **presentations only**. Source remains private; Scope Vision's model and training/calibration/test data also remain private. No open-source license is granted for original portfolio material. Synthetic examples and local checks are identified; they are not evidence of industrial deployment or a hosted production service.
+I developed these projects with Codex; the case studies explain my role and how AI was used. **Only the presentations are public.** Source code stays private, as do Scope Vision's model and training, calibration and test data. No open-source license is granted for the original portfolio material. The examples use synthetic data, and the results come from local tests rather than production use.
 
-## Additional private work
+## Another project in progress
 
-**Data Integrity Toolkit** — a private, offline-oriented tool for checking the completeness and consistency of research exports. Missing or unverified information stays distinct from confirmed results.
+**Data Integrity Toolkit** checks whether research exports are complete and internally consistent. It flags missing or contradictory information instead of filling in the gaps.
 
-The simplified walkthrough below illustrates the function; it is not a live application view or a disclosure of the underlying inputs.
+This table describes its behavior; it is not a screenshot of the application or a sample of private research data.
 
-| Situation | Visible outcome |
+| Input | Result |
 | --- | --- |
-| Complete, consistent input | A clear verification result |
-| Changed or contradictory input | Rejection or an explicit inconsistency |
-| Incomplete input | Missing information stays visible; no value is invented |
+| Complete and consistent | Verification result |
+| Changed or contradictory | Rejection or a description of the inconsistency |
+| Incomplete | Missing information is identified; no replacement values are generated |
 
-Developed with AI assistance, focusing on data validation and careful testing. Additional integration checks are in preparation. Source code, datasets, domain rules, internal test material and implementation details remain private.
+The tool was developed with AI assistance. Further integration tests are still in preparation. Its source, datasets, domain rules, internal test material and implementation details remain private.
 
-## Selected experience
+## Work experience
 
-### Robotics, AI & machine vision — ZF Friedrichshafen AG
+### Robotics and machine vision at ZF Friedrichshafen AG
 
 **Software Developer · KTC Saarbrücken · Research & Development · 2021–2024**
 
-- Analyzed manufacturing and assembly processes, developed lab prototypes, and configured robots, vision software and graphical user interfaces.
-- Independently built and configured an inspection prototype combining a **Universal Robots** robot with a **SensoPart VISOR** camera system. The robot presented machined mechatronic plates to the camera in defined poses and angles, then sorted them by inspection result.
-- Trained image-based inspection models, tuned grayscale tolerances and compensated for lighting variations for use across three shifts. Produced technical drawings for mechanical components fabricated by the in-house toolmaking team.
-- After presentation and refinement, the department progressively integrated the solution across **12 production lines**, standardizing quality assessment and helping reduce labor and scrap costs.
+I worked on manufacturing and assembly processes, built lab prototypes, and configured robots, vision software and operator interfaces.
 
-### Business applications — private client CRM
+One project was an inspection prototype that I built and configured using a **Universal Robots** robot and a **SensoPart VISOR** camera. The robot took machined mechatronic plates from the production line, presented them to the camera at defined angles and sorted them by inspection result. I also prepared technical drawings for parts made by the in-house toolmaking team.
 
-Designed, developed and deployed a web-based CRM with customer management, appointments, role-based workflows, data import and integration into the client's operations.
+The work included training image-based inspection models, adjusting grayscale tolerances and compensating for lighting changes across three shifts. After presentation and refinement, our department gradually introduced the solution across **12 production lines**. This helped standardize quality assessment and reduce labor and scrap costs.
 
-This is a completed client project. Source code and business data remain confidential; current production operation is outside the scope of this portfolio.
+### CRM for a private client
+
+I designed, developed and deployed a web-based CRM with customer management, appointments, user roles and data import, and integrated it into the client's operations.
+
+The project is complete. The client's code and business data are confidential. This portfolio describes the work I delivered; the system's current production status has not been checked.
 
 ## Technical focus
 

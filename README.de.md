@@ -4,53 +4,52 @@
 
 **Full-Stack Developer · AI-Assisted Product Builder**
 
-Ich entwickle Software und Automatisierung für praktische Geschäfts- und Fertigungsabläufe. Meine Erfahrung verbindet industrielle Robotik, kameragestützte Qualitätsprüfung und Webanwendungen mit KI-gestützter Produktentwicklung.
+Ich komme aus der Robotik und kameragestützten Qualitätsprüfung. Bei ZF habe ich Laborprototypen aufgebaut, in denen Roboter, Kameras und Prüfsoftware zusammenarbeiten. Heute beschäftige ich mich mit Webanwendungen und Automatisierung und nutze KI bei der Entwicklung.
 
-Ich arbeite von klaren Anforderungen über Prototypen und Umsetzung bis zu Tests und Dokumentation. Meine Lösungen sollen verständlich, nützlich und überprüfbar sein.
+## Ausgewählte Projekte
 
-## Ausgewählte Portfolioprojekte
+Diese vier Anwendungen laufen lokal. Auf den Projektseiten findest du Screenshots, die Überlegungen zur Umsetzung und die Testergebnisse.
 
-Vier funktionsfähige lokale Projekte zeigen unterschiedliche Schwerpunkte meiner Arbeit. Jede Präsentation enthält Anwendungsansichten, eine Fallstudie, dokumentierte Prüfungen und klare Aussagegrenzen. Die Oberflächen haben einen eigenen, zur Aufgabe passenden Stil.
-
-| Projekt | Praktischer Schwerpunkt | Nachweis |
+| Projekt | Was es macht | Zum Weiterlesen |
 | :--- | :--- | :--- |
-| **[Scope Vision](https://github.com/LeonScope/visual-quality-inspector/blob/main/README.de.md)** | Bildprüfung, berechnete Abweichungsmarkierungen und gespeicherte menschliche Bewertungen. Industrieller Prüfplatz mit Bezug zu meiner Kameraerfahrung. | [Modellauswertung und Anwendungsprüfungen](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.de.md) |
-| **[Scope CRM](https://github.com/LeonScope/crm-portfolio-demo/blob/main/README.de.md)** | Kundenzuständigkeiten, Termine, Änderungsverlauf und CSV-Import mit Prüfung und Bestätigung. | [Rollen, Import und Browserabläufe](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.de.md) |
-| **[Scope Audit](https://github.com/LeonScope/website-audit-dashboard/blob/main/README.de.md)** | Lesbare HTML- und Linkberichte mit konkreten Empfehlungen, sichtbarer Unsicherheit und lokalem Verlauf. | [Auswertung, Anfragegrenzen und Exporte](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.de.md) |
-| **[Scope Monitor](https://github.com/LeonScope/service-status-monitor/blob/main/README.de.md)** | Regelmäßige HTTP-Beobachtungen, bestätigte Störungen und nachvollziehbare Erholung. | [Monitoringregeln und vollständige Abläufe](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.de.md) |
+| **[Scope Vision](https://github.com/LeonScope/visual-quality-inspector/blob/main/README.de.md)** | Erkennt Kratzer und fehlende Bohrungen in erzeugten Bildern von Metallplatten. Anschließend lässt sich eine menschliche Bewertung festhalten. | [Modellauswertung und Tests](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.de.md) |
+| **[Scope CRM](https://github.com/LeonScope/crm-portfolio-demo/blob/main/README.de.md)** | Hält Kundenzuständigkeiten, Termine und Notizen zusammen. CSV-Importe werden vor dem Speichern geprüft. | [Rollen, Import und Browsertests](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.de.md) |
+| **[Scope Audit](https://github.com/LeonScope/website-audit-dashboard/blob/main/README.de.md)** | Prüft HTML und interne Links einer Seite, erklärt die Befunde und speichert den Bericht. | [Prüfungen und Grenzen](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.de.md) |
+| **[Scope Monitor](https://github.com/LeonScope/service-status-monitor/blob/main/README.de.md)** | Prüft HTTP-Dienste in regelmäßigen Abständen und hält Fehler sowie die anschließende Erholung im Verlauf fest. | [Monitoringregeln und Tests](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.de.md) |
 
-Die Projekte entstanden mit KI-Unterstützung; die jeweiligen Fallstudien erläutern meine Rolle und die verwendete Unterstützung. Öffentlich sind **ausschließlich die Präsentationen**. Quellcode bleibt privat; bei Scope Vision zusätzlich Modell und Trainings-/Kalibrierungs-/Testdaten. Für das eigene Portfolio-Material wird keine Open-Source-Lizenz erteilt. Synthetische Beispiele und lokale Prüfungen sind gekennzeichnet; sie belegen weder industriellen Einsatz noch einen gehosteten Produktivdienst.
+Die Projekte habe ich mit Codex entwickelt. Die Fallstudien erklären meinen Anteil und den Einsatz der KI. **Öffentlich sind nur die Präsentationen.** Der Quellcode bleibt privat, bei Scope Vision auch Modell sowie Trainings-, Kalibrierungs- und Testdaten. Für das eigene Portfolio-Material wird keine Open-Source-Lizenz erteilt. Die Beispiele verwenden erzeugte Daten; die Ergebnisse stammen aus lokalen Tests und nicht aus dem Produktivbetrieb.
 
-## Weitere private Arbeit
+## Ein weiteres Projekt in Arbeit
 
-**Data Integrity Toolkit** — ein privates, offline ausgerichtetes Werkzeug zur Prüfung von Vollständigkeit und Konsistenz von Forschungsexporten. Fehlende oder ungeprüfte Angaben bleiben von bestätigten Ergebnissen unterscheidbar.
+Das **Data Integrity Toolkit** prüft, ob Forschungsexporte vollständig und in sich stimmig sind. Fehlende oder widersprüchliche Angaben werden gemeldet, statt Lücken mit angenommenen Werten zu füllen.
 
-Die vereinfachte Übersicht zeigt die Funktion; sie ist weder eine Live-Ansicht der Anwendung noch eine Offenlegung der zugrunde liegenden Eingaben.
+Die Tabelle beschreibt die Funktion. Sie zeigt weder die Anwendung selbst noch private Forschungsdaten.
 
-| Situation | Sichtbares Ergebnis |
+| Eingabe | Ergebnis |
 | --- | --- |
-| Vollständige, konsistente Eingabe | Ein klares Prüfergebnis |
-| Veränderte oder widersprüchliche Eingabe | Zurückweisung oder ein ausdrücklicher Hinweis auf die Unstimmigkeit |
-| Unvollständige Eingabe | Fehlende Angaben bleiben sichtbar; Werte werden nicht erfunden |
+| Vollständig und konsistent | Prüfergebnis |
+| Verändert oder widersprüchlich | Zurückweisung oder Beschreibung der Unstimmigkeit |
+| Unvollständig | Fehlende Angaben werden benannt; Ersatzwerte werden nicht erzeugt |
 
-Mit KI-Unterstützung entwickelt, mit Schwerpunkt auf Datenvalidierung und sorgfältigen Tests. Weitere Integrationsprüfungen sind in Vorbereitung. Quellcode, Datensätze, Fachregeln, interne Testunterlagen und Implementierungsdetails bleiben privat.
+Das Werkzeug entstand mit KI-Unterstützung. Weitere Integrationsprüfungen sind noch in Vorbereitung. Quellcode, Datensätze, Fachregeln, interne Testunterlagen und Implementierungsdetails bleiben privat.
 
-## Ausgewählte Erfahrung
+## Berufliche Erfahrung
 
-### Robotik, KI und Bildverarbeitung — ZF Friedrichshafen AG
+### Robotik und Bildverarbeitung bei ZF Friedrichshafen AG
 
 **Softwareentwickler · KTC Saarbrücken · Forschung und Entwicklung · 2021–2024**
 
-- Analyse von Fertigungs- und Montageprozessen, Entwicklung eigener Laborprototypen sowie Konfiguration von Robotern, Bildverarbeitungssoftware und grafischen Bedienoberflächen.
-- Eigenständiger Aufbau und vollständige Konfiguration eines Prüfprototyps mit einem Roboter von **Universal Robots** und einem **SensoPart-VISOR-Kamerasystem**. Der Roboter präsentierte gefräste Mechatronikplatten in definierten Posen und Winkeln vor der Kamera und sortierte sie anschließend nach Prüfergebnis in i. O. / n. i. O.
-- Training bildbasierter Prüfmodelle, Abstimmung von Grauwerttoleranzen und Kompensation von Lichtschwankungen für den Dreischichtbetrieb. Technische Zeichnungen für mechanische Komponenten, die im internen Werkzeugbau gefertigt wurden.
-- Nach Präsentation und Optimierung integrierte die Abteilung die Lösung schrittweise an **zwölf Fertigungslinien**. Das vereinheitlichte die Qualitätsbewertung und trug zur Senkung von Personal- und Ausschusskosten bei.
+Ich habe Fertigungs- und Montageabläufe untersucht, Laborprototypen entwickelt und Roboter, Bildverarbeitungssoftware sowie Bedienoberflächen eingerichtet.
 
-### Geschäftsanwendungen — CRM für einen privaten Auftraggeber
+Ein Projekt war ein Prüfprototyp, den ich mit einem Roboter von **Universal Robots** und einer **SensoPart-VISOR-Kamera** eigenständig aufgebaut und konfiguriert habe. Der Roboter entnahm gefräste Mechatronikplatten vom Band, hielt sie in festgelegten Winkeln vor die Kamera und sortierte sie nach dem Prüfergebnis. Benötigte mechanische Teile habe ich technisch gezeichnet und im internen Werkzeugbau fertigen lassen.
 
-Konzeption, Entwicklung und Bereitstellung einer webbasierten CRM-Anwendung mit Kundenverwaltung, Terminen, rollenbasierten Abläufen, Datenimport und Einbindung in die betrieblichen Prozesse.
+Zur Arbeit gehörten das Training bildbasierter Prüfmodelle, die Abstimmung von Grauwerttoleranzen und der Ausgleich wechselnder Lichtverhältnisse im Dreischichtbetrieb. Nach Präsentation und Optimierung führte unsere Abteilung die Lösung schrittweise an **zwölf Fertigungslinien** ein. So wurde die Qualitätsbewertung einheitlicher; Personal- und Ausschusskosten konnten gesenkt werden.
 
-Das Kundenprojekt ist abgeschlossen. Quellcode und Geschäftsdaten bleiben vertraulich; der aktuelle Produktivbetrieb ist nicht Gegenstand dieses Portfolios.
+### CRM für einen privaten Auftraggeber
+
+Für einen Auftraggeber habe ich ein webbasiertes CRM mit Kundenverwaltung, Terminen, Benutzerrollen und Datenimport entwickelt, bereitgestellt und in die betrieblichen Abläufe eingebunden.
+
+Das Projekt ist abgeschlossen. Quellcode und Geschäftsdaten des Auftraggebers bleiben vertraulich. Hier beschreibe ich meine damalige Arbeit; der heutige Produktivbetrieb wurde für das Portfolio nicht geprüft.
 
 ## Technischer Schwerpunkt
 
