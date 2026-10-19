@@ -19,6 +19,12 @@ Diese vier Anwendungen laufen lokal. Auf den Projektseiten findest du Screenshot
 
 Die Projekte habe ich mit Codex entwickelt. Die Fallstudien erklären meinen Anteil und den Einsatz der KI. **Öffentlich sind nur die Präsentationen.** Der Quellcode bleibt privat, bei Scope Vision auch Modell sowie Trainings-, Kalibrierungs- und Testdaten. Für das eigene Portfolio-Material wird keine Open-Source-Lizenz erteilt. Die Beispiele verwenden erzeugte Daten; die Ergebnisse stammen aus lokalen Tests und nicht aus dem Produktivbetrieb.
 
+### X Model Automation
+
+Für X habe ich mit KI-Unterstützung eine Anwendung aufgebaut, die Medien und Texte vorbereitet, Beiträge für zwei Accounts plant und die Veröffentlichung nachhält. Die [Fallstudie](https://github.com/LeonScope/x-automation-showcase/blob/main/README.de.md) erklärt den Umgang mit unklaren API-Antworten, wiederholten Vorbereitungsfehlern und der Trennung von Testposts und geschäftlichen Auswertungen.
+
+**Stand 19. Oktober 2026:** Die Bildautomation läuft. An der Video-Erweiterung arbeite ich noch. Quellcode, Accountdaten und Betriebsdaten bleiben privat. [Projektstand und berichtete Tests](https://github.com/LeonScope/x-automation-showcase/blob/main/docs/STATUS.de.md).
+
 ## Ein weiteres Projekt in Arbeit
 
 Das **Data Integrity Toolkit** prüft, ob Forschungsexporte vollständig und in sich stimmig sind. Fehlende oder widersprüchliche Angaben werden gemeldet, statt Lücken mit angenommenen Werten zu füllen.

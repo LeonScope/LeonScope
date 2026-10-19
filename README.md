@@ -19,6 +19,12 @@ These four applications run locally. Each project page includes screenshots, the
 
 I developed these projects with Codex; the case studies explain my role and how AI was used. **Only the presentations are public.** Source code stays private, as do Scope Vision's model and training, calibration and test data. No open-source license is granted for the original portfolio material. The examples use synthetic data, and the results come from local tests rather than production use.
 
+### X Model Automation
+
+I also developed an application with AI assistance to prepare media and captions, schedule posts for two X accounts and keep track of publication results. The [case study](https://github.com/LeonScope/x-automation-showcase) explains how it handles uncertain API responses, repeated preparation failures and the separation of test posts from business analytics.
+
+**As of 19 October 2026**, image publishing is active. I am still completing the video extension. Source code, account details and operating data remain private. [Project status and reported tests](https://github.com/LeonScope/x-automation-showcase/blob/main/docs/STATUS.md).
+
 ## Another project in progress
 
 **Data Integrity Toolkit** checks whether research exports are complete and internally consistent. It flags missing or contradictory information instead of filling in the gaps.
