@@ -8,32 +8,20 @@ I develop software and automation for practical business and manufacturing workf
 
 I work from clear requirements through prototyping, implementation, testing and documentation. My goal is to make each solution understandable, useful and verifiable.
 
-## Featured projects
+## Selected portfolio
 
-**[CRM Portfolio Demo](https://github.com/LeonScope/crm-portfolio-demo)** — an independent Laravel CRM with customer assignments, appointments, activity history and a CSV import with preview and confirmation. Built with AI assistance and synthetic data.
+Four functional local projects show different parts of my work. Each presentation contains application screenshots, a case study, documented checks and explicit limits. The interfaces use distinct visual styles suited to their tasks.
 
-The public presentation includes screenshots, a case study and documented local results: **53 application tests, 430 assertions and 4 browser workflows passed**. Application source remains private; no open-source license is granted.
+| Project | Practical focus | Evidence |
+| :--- | :--- | :--- |
+| **[Scope Vision](https://github.com/LeonScope/visual-quality-inspector)** | Image inspection, computed anomaly maps and recorded human assessments. Industrial console connected to my machine-vision experience. | [Model evaluation and application checks](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.md) |
+| **[Scope CRM](https://github.com/LeonScope/crm-portfolio-demo)** | Customer ownership, appointments, change history and CSV import with validation and confirmation. | [Roles, import and browser workflows](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.md) |
+| **[Scope Audit](https://github.com/LeonScope/website-audit-dashboard)** | Readable HTML and link reports with concrete recommendations, uncertainty and local history. | [Analysis, request boundaries and exports](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.md) |
+| **[Scope Monitor](https://github.com/LeonScope/service-status-monitor)** | Scheduled HTTP observations, incident confirmation and traceable recovery. | [Monitoring rules and complete workflows](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.md) |
 
-[Case study](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.md)
+These projects were built with AI assistance; the respective case studies explain my role and the assistance used. Public repositories contain **presentations only**. Source remains private; Scope Vision's model and training/calibration/test data also remain private. No open-source license is granted for original portfolio material. Synthetic examples and local checks are identified; they are not evidence of industrial deployment or a hosted production service.
 
-
-**[Scope Audit · Website Audit Dashboard](https://github.com/LeonScope/website-audit-dashboard)** — a TypeScript and React application for bounded website checks, internal link reports, local history and JSON/CSV exports. Findings distinguish confirmed error statuses from unverified results.
-
-**64 automated application tests and 5 browser workflows passed in a fresh local copy.** The presentation includes desktop/mobile screenshots and a separate real HTTP smoke check. Application source remains private.
-
-[Case study](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.md)
-
-**[Scope Monitor · Service Status Monitor](https://github.com/LeonScope/service-status-monitor)** — scheduled HTTP checks, response-time history and incidents confirmed by consecutive observations. Includes pause/resume, JSON/CSV exports and a local event journal.
-
-**72 automated application tests and 8 browser workflows passed in a fresh local copy.** The presentation distinguishes synthetic examples from a separate real HTTP check. Monitoring runs locally; application source remains private.
-
-[Case study](https://github.com/LeonScope/service-status-monitor/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.md)
-
-**[Scope Vision · Visual Quality Inspector](https://github.com/LeonScope/visual-quality-inspector)** — local image inspection with computed anomaly maps, separate human assessments and a traceable inspection history. Combines a pretrained image network with locally fitted normal-feature distributions.
-
-**46 automated application/model checks and 8 browser workflows passed in a fresh local copy.** On 180 separate synthetic test images: 120 of 120 defects detected, with no false alarm among 60 normal images. This measurement applies to the limited synthetic task; industrial reliability is not claimed. Source code, training data and model remain private.
-
-[Case study](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/CASE-STUDY.md) · [Verification](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.md)
+## Additional private work
 
 **Data Integrity Toolkit** — a private, offline-oriented tool for checking the completeness and consistency of research exports. Missing or unverified information stays distinct from confirmed results.
 
