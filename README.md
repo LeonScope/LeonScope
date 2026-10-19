@@ -8,16 +8,17 @@ My background is in robotics and camera-based quality inspection. At ZF, I built
 
 ## Selected projects
 
-These four applications run locally. Each project page includes screenshots, the reasoning behind the implementation and test results.
+These five applications run locally. Each project page includes screenshots, the reasoning behind the implementation and test results.
 
 | Project | What it does | More detail |
 | :--- | :--- | :--- |
+| **[Scope Assist](https://github.com/LeonScope/scope-assist)** | Answers questions about selected technical documents with a local language model and opens the quoted passage. | [Model evaluation and limits](https://github.com/LeonScope/scope-assist/blob/main/docs/VERIFICATION.md) |
 | **[Scope Vision](https://github.com/LeonScope/visual-quality-inspector)** | Finds scratches and missing holes in generated images of metal plates, then records a person's review. | [Model evaluation and tests](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.md) |
 | **[Scope CRM](https://github.com/LeonScope/crm-portfolio-demo)** | Keeps customer assignments, appointments and notes together. CSV imports are checked before they are saved. | [Roles, import and browser tests](https://github.com/LeonScope/crm-portfolio-demo/blob/main/docs/VERIFICATION.md) |
 | **[Scope Audit](https://github.com/LeonScope/website-audit-dashboard)** | Checks a page's HTML and internal links, explains the findings and saves the report. | [Checks and limitations](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.md) |
 | **[Scope Monitor](https://github.com/LeonScope/service-status-monitor)** | Checks HTTP services at regular intervals and keeps a record of failures and recovery. | [Monitoring rules and tests](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.md) |
 
-I developed these projects with Codex; the case studies explain my role and how AI was used. **Only the presentations are public.** Source code stays private, as do Scope Vision's model and training, calibration and test data. No open-source license is granted for the original portfolio material. The examples use synthetic data, and the results come from local tests rather than production use.
+I developed these projects with Codex; the case studies explain my role and how AI was used. **Only the presentations are public.** Source code stays private, as do Scope Vision's model and training, calibration and test data. Scope Assist's model files, document collection and search index also stay private. No open-source license is granted for the original portfolio material. The examples use synthetic data, and the results come from local tests rather than production use.
 
 ### X Model Automation
 
@@ -64,6 +65,7 @@ The project is complete. The client's code and business data are confidential. T
 | Robotics & machine vision | Universal Robots · SensoPart VISOR · Camera-based inspection · Image-based model training |
 | Web development | PHP · Laravel · JavaScript · TypeScript · React · Node.js · SQL · Git |
 | Computer vision portfolio | Python · PyTorch · Pretrained image features · Anomaly detection · Held-out model evaluation |
+| Local document AI | Document retrieval · Local language models · Source references · Regression evaluation |
 | Engineering | Process analysis · Prototyping · Workflow automation · APIs · Data validation |
 
 ## AI training
