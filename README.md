@@ -8,10 +8,11 @@ My background is in robotics and camera-based quality inspection. At ZF, I built
 
 ## Selected projects
 
-These six applications run locally. Each project page includes screenshots, the reasoning behind the implementation and test results.
+These seven applications run locally. Each project page includes screenshots, the reasoning behind the implementation and test results.
 
 | Project | What it does | More detail |
 | :--- | :--- | :--- |
+| **[Scope Dispatch](https://github.com/LeonScope/scope-dispatch)** | Plans technical service jobs around skills, arrival windows and travel times. A local model prepares requests for review. | [Scheduling comparisons and checks](https://github.com/LeonScope/scope-dispatch/blob/main/docs/VERIFICATION.md) |
 | **[Scope Cell](https://github.com/LeonScope/scope-cell)** | Simulates a UR5e inspection cell with visible movement commands, part tracking and recovery from faults. | [Motion, geometry and process checks](https://github.com/LeonScope/scope-cell/blob/main/docs/VERIFICATION.md) |
 | **[Scope Assist](https://github.com/LeonScope/scope-assist)** | Answers questions about selected technical documents with a local language model and opens the quoted passage. | [Model evaluation and limits](https://github.com/LeonScope/scope-assist/blob/main/docs/VERIFICATION.md) |
 | **[Scope Vision](https://github.com/LeonScope/visual-quality-inspector)** | Finds scratches and missing holes in generated images of metal plates, then records a person's review. | [Model evaluation and tests](https://github.com/LeonScope/visual-quality-inspector/blob/main/docs/VERIFICATION.md) |
@@ -19,7 +20,7 @@ These six applications run locally. Each project page includes screenshots, the 
 | **[Scope Audit](https://github.com/LeonScope/website-audit-dashboard)** | Checks a page's HTML and internal links, explains the findings and saves the report. | [Checks and limitations](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.md) |
 | **[Scope Monitor](https://github.com/LeonScope/service-status-monitor)** | Checks HTTP services at regular intervals and keeps a record of failures and recovery. | [Monitoring rules and tests](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.md) |
 
-I developed these projects with Codex; the case studies explain my role and how AI was used. **Only the presentations are public.** Source code stays private, as do Scope Vision's model and training, calibration and test data. Scope Assist's model files, document collection and search index also stay private. Scope Cell's runtime and local copies of the robot model are not published here. No open-source license is granted for the original portfolio material. The examples use synthetic data, and the results come from local tests rather than production use.
+I developed these projects with Codex; the case studies explain my role and how AI was used. **Only the presentations are public.** Source code stays private, as do Scope Vision's model and training, calibration and test data. Scope Assist's model files, document collection and search index also stay private. Scope Cell's runtime and local copies of the robot model are not published here. Scope Dispatch’s schedules, database and model files also remain private. No open-source license is granted for the original portfolio material. The examples use synthetic data, and the results come from local tests rather than production use.
 
 ### X Model Automation
 
@@ -67,6 +68,7 @@ The project is complete. The client's code and business data are confidential. T
 | Web development | PHP · Laravel · JavaScript · TypeScript · React · Node.js · SQL · Git |
 | Computer vision portfolio | Python · PyTorch · Pretrained image features · Anomaly detection · Held-out model evaluation |
 | Local document AI | Document retrieval · Local language models · Source references · Regression evaluation |
+| Service planning portfolio | Constraint-based scheduling · Route planning · Local AI intake · Transactional plan updates |
 | Engineering | Process analysis · Prototyping · Workflow automation · APIs · Data validation |
 
 ## AI training
