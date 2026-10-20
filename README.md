@@ -8,10 +8,11 @@ My background is in robotics and camera-based quality inspection. At ZF, I built
 
 ## Selected projects
 
-These eight applications run locally. Each project page includes screenshots, the reasoning behind the implementation and test results.
+These nine applications run locally. Each project page includes screenshots, the reasoning behind the implementation and test results.
 
 | Project | What it does | More detail |
 | :--- | :--- | :--- |
+| **[Scope Clips](https://github.com/LeonScope/scope-clips)** | Turns spoken videos into short clips with local transcription, editable captions and MP4 exports. | [Media, model and browser checks](https://github.com/LeonScope/scope-clips/blob/main/docs/VERIFICATION.md) |
 | **[Scope Trace](https://github.com/LeonScope/scope-trace)** | Follows material lots through parts, assemblies and shipments. Quality cases retain holds, rechecks and release decisions. | [Genealogy and workflow checks](https://github.com/LeonScope/scope-trace/blob/main/docs/VERIFICATION.md) |
 | **[Scope Dispatch](https://github.com/LeonScope/scope-dispatch)** | Plans technical service jobs around skills, arrival windows and travel times. A local model prepares requests for review. | [Scheduling comparisons and checks](https://github.com/LeonScope/scope-dispatch/blob/main/docs/VERIFICATION.md) |
 | **[Scope Cell](https://github.com/LeonScope/scope-cell)** | Simulates a UR5e inspection cell with visible movement commands, part tracking and recovery from faults. | [Motion, geometry and process checks](https://github.com/LeonScope/scope-cell/blob/main/docs/VERIFICATION.md) |
@@ -21,7 +22,7 @@ These eight applications run locally. Each project page includes screenshots, th
 | **[Scope Audit](https://github.com/LeonScope/website-audit-dashboard)** | Checks a page's HTML and internal links, explains the findings and saves the report. | [Checks and limitations](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.md) |
 | **[Scope Monitor](https://github.com/LeonScope/service-status-monitor)** | Checks HTTP services at regular intervals and keeps a record of failures and recovery. | [Monitoring rules and tests](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.md) |
 
-I developed these projects with Codex; the case studies explain my role and how AI was used. **Only the presentations are public.** Source code stays private, as do Scope Vision's model and training, calibration and test data. Scope Assist's model files, document collection and search index also stay private. Scope Cell's runtime and local copies of the robot model are not published here. Scope Dispatch’s schedules, database and model files also remain private. Scope Trace's database and exported dossiers are private as well. No open-source license is granted for the original portfolio material. The examples use synthetic data, and the results come from local tests rather than production use.
+I developed these projects with Codex; the case studies explain my role and how AI was used. **Only the presentations are public.** Application source, runtime files, databases, models, training and evaluation data, original documents and recordings remain private. Private schedules, search indexes and exported dossiers are not included. No open-source license is granted for the original portfolio material. The examples use synthetic demonstration material; the results come from local tests.
 
 ### X Model Automation
 
@@ -71,6 +72,7 @@ The project is complete. The client's code and business data are confidential. T
 | Local document AI | Document retrieval · Local language models · Source references · Regression evaluation |
 | Service planning portfolio | Constraint-based scheduling · Route planning · Local AI intake · Transactional plan updates |
 | Manufacturing traceability portfolio | Material relationships · Quality cases · Event history · Checked imports |
+| Media processing portfolio | Local speech recognition · Transcript navigation · FFmpeg · Caption rendering · Versioned exports |
 | Engineering | Process analysis · Prototyping · Workflow automation · APIs · Data validation |
 
 ## AI training
