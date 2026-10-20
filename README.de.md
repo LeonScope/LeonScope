@@ -8,10 +8,11 @@ Ich komme aus der Robotik und kameragestützten Qualitätsprüfung. Bei ZF habe 
 
 ## Ausgewählte Projekte
 
-Diese sieben Anwendungen laufen lokal. Auf den Projektseiten findest du Screenshots, die Überlegungen zur Umsetzung und die Testergebnisse.
+Diese acht Anwendungen laufen lokal. Auf den Projektseiten findest du Screenshots, die Überlegungen zur Umsetzung und die Testergebnisse.
 
 | Projekt | Was es macht | Zum Weiterlesen |
 | :--- | :--- | :--- |
+| **[Scope Trace](https://github.com/LeonScope/scope-trace/blob/main/README.de.md)** | Verfolgt Materialchargen durch Teile, Baugruppen und Lieferungen. Qualitätsfälle halten Sperren, Nachprüfungen und Freigaben fest. | [Rückverfolgung und Ablaufprüfungen](https://github.com/LeonScope/scope-trace/blob/main/docs/VERIFICATION.md#deutsch) |
 | **[Scope Dispatch](https://github.com/LeonScope/scope-dispatch/blob/main/README.de.md)** | Plant technische Serviceeinsätze nach Qualifikation, Ankunftsfenster und Fahrtzeit. Ein lokales Modell bereitet Anfragen zur Prüfung vor. | [Planungsvergleiche und Prüfungen](https://github.com/LeonScope/scope-dispatch/blob/main/docs/VERIFICATION.md#deutsch) |
 | **[Scope Cell](https://github.com/LeonScope/scope-cell/blob/main/README.de.md)** | Simuliert eine UR5e-Prüfzelle mit sichtbaren Bewegungsbefehlen, Bauteilverfolgung und Wiederaufnahme nach Störungen. | [Bewegung, Geometrie und Ablaufprüfungen](https://github.com/LeonScope/scope-cell/blob/main/docs/VERIFICATION.de.md) |
 | **[Scope Assist](https://github.com/LeonScope/scope-assist/blob/main/README.de.md)** | Beantwortet Fragen zu ausgewählten technischen Unterlagen mit einem lokalen Sprachmodell und öffnet die zitierte Stelle. | [Modellprüfung und Grenzen](https://github.com/LeonScope/scope-assist/blob/main/docs/VERIFICATION.de.md) |
@@ -20,7 +21,7 @@ Diese sieben Anwendungen laufen lokal. Auf den Projektseiten findest du Screensh
 | **[Scope Audit](https://github.com/LeonScope/website-audit-dashboard/blob/main/README.de.md)** | Prüft HTML und interne Links einer Seite, erklärt die Befunde und speichert den Bericht. | [Prüfungen und Grenzen](https://github.com/LeonScope/website-audit-dashboard/blob/main/docs/VERIFICATION.de.md) |
 | **[Scope Monitor](https://github.com/LeonScope/service-status-monitor/blob/main/README.de.md)** | Prüft HTTP-Dienste in regelmäßigen Abständen und hält Fehler sowie die anschließende Erholung im Verlauf fest. | [Monitoringregeln und Tests](https://github.com/LeonScope/service-status-monitor/blob/main/docs/VERIFICATION.de.md) |
 
-Die Projekte habe ich mit Codex entwickelt. Die Fallstudien erklären meinen Anteil und den Einsatz der KI. **Öffentlich sind nur die Präsentationen.** Der Quellcode bleibt privat, bei Scope Vision auch Modell sowie Trainings-, Kalibrierungs- und Testdaten. Bei Scope Assist bleiben zusätzlich Modelldateien, Dokumentensammlung und Suchindex privat. Die Laufzeit von Scope Cell und die lokalen Kopien des Robotermodells werden hier ebenfalls nicht veröffentlicht. Bei Scope Dispatch bleiben auch Pläne, Datenbank und Modelldateien privat. Für das eigene Portfolio-Material wird keine Open-Source-Lizenz erteilt. Die Beispiele verwenden erzeugte Daten; die Ergebnisse stammen aus lokalen Tests und nicht aus dem Produktivbetrieb.
+Die Projekte habe ich mit Codex entwickelt. Die Fallstudien erklären meinen Anteil und den Einsatz der KI. **Öffentlich sind nur die Präsentationen.** Der Quellcode bleibt privat, bei Scope Vision auch Modell sowie Trainings-, Kalibrierungs- und Testdaten. Bei Scope Assist bleiben zusätzlich Modelldateien, Dokumentensammlung und Suchindex privat. Die Laufzeit von Scope Cell und die lokalen Kopien des Robotermodells werden hier ebenfalls nicht veröffentlicht. Bei Scope Dispatch bleiben auch Pläne, Datenbank und Modelldateien privat. Die Datenbank und exportierten Bauteilakten von Scope Trace bleiben ebenfalls privat. Für das eigene Portfolio-Material wird keine Open-Source-Lizenz erteilt. Die Beispiele verwenden erzeugte Daten; die Ergebnisse stammen aus lokalen Tests und nicht aus dem Produktivbetrieb.
 
 ### X Model Automation
 
@@ -69,6 +70,7 @@ Das Projekt ist abgeschlossen. Quellcode und Geschäftsdaten des Auftraggebers b
 | Computer Vision im Portfolio | Python · PyTorch · Vortrainierte Bildmerkmale · Anomalieerkennung · Getrennte Modellauswertung |
 | Lokale Dokumenten-KI | Dokumentensuche · Lokale Sprachmodelle · Quellenbelege · Wiederholbare Prüfungen |
 | Einsatzplanung im Portfolio | Planung mit Nebenbedingungen · Routenplanung · Lokale KI-Erfassung · Geprüfte Planänderungen |
+| Bauteilrückverfolgung im Portfolio | Materialbeziehungen · Qualitätsfälle · Ereignisverlauf · Geprüfte Importe |
 | Entwicklungspraxis | Prozessanalyse · Prototypenentwicklung · Workflow-Automatisierung · APIs · Datenvalidierung |
 
 ## KI-Weiterbildung
