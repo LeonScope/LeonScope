@@ -8,10 +8,11 @@ Ich komme aus der Robotik und kameragestützten Qualitätsprüfung. Bei ZF habe 
 
 ## Ausgewählte Projekte
 
-Diese zehn Anwendungen laufen lokal. Auf den Projektseiten findest du Screenshots, die Überlegungen zur Umsetzung und die Testergebnisse.
+Diese elf Anwendungen laufen lokal. Auf den Projektseiten findest du Screenshots, die Überlegungen zur Umsetzung und die Testergebnisse.
 
 | Projekt | Was es macht | Zum Weiterlesen |
 | :--- | :--- | :--- |
+| **[Scope Quant](https://github.com/LeonScope/scope-quant/blob/main/README.de.md)** | Spielt Trading-Simulationen mit sichtbaren Orderentscheidungen, gemeinsamen Risikogrenzen und zeitlich getrennten Strategievergleichen ab. | [Kontoberechnung, Zeitlogik und Forschungsprüfungen](https://github.com/LeonScope/scope-quant/blob/main/docs/VERIFICATION.md#deutsch) |
 | **[Scope Pulse](https://github.com/LeonScope/scope-pulse/blob/main/README.de.md)** | Importiert Social-Media-Kennzahlen, vergleicht Beiträge und erstellt Berichte mit geprüften Vorschlägen eines lokalen Modells. | [Berechnungen, Importe und Modellprüfungen](https://github.com/LeonScope/scope-pulse/blob/main/docs/VERIFICATION.md#deutsch) |
 | **[Scope Clips](https://github.com/LeonScope/scope-clips/blob/main/README.de.md)** | Erstellt kurze Clips aus gesprochenen Videos, mit lokaler Transkription, bearbeitbaren Untertiteln und MP4-Export. | [Medien-, Modell- und Browserprüfungen](https://github.com/LeonScope/scope-clips/blob/main/docs/VERIFICATION.md#deutsch) |
 | **[Scope Trace](https://github.com/LeonScope/scope-trace/blob/main/README.de.md)** | Verfolgt Materialchargen durch Teile, Baugruppen und Lieferungen. Qualitätsfälle halten Sperren, Nachprüfungen und Freigaben fest. | [Rückverfolgung und Ablaufprüfungen](https://github.com/LeonScope/scope-trace/blob/main/docs/VERIFICATION.md#deutsch) |
@@ -75,6 +76,7 @@ Das Projekt ist abgeschlossen. Quellcode und Geschäftsdaten des Auftraggebers b
 | Bauteilrückverfolgung im Portfolio | Materialbeziehungen · Qualitätsfälle · Ereignisverlauf · Geprüfte Importe |
 | Medienverarbeitung im Portfolio | Lokale Spracherkennung · Navigation über das Transkript · FFmpeg · Untertiteldarstellung · Versionierte Exporte |
 | Social-Media-Analyse im Portfolio | Geprüfte CSV-Importe · Kumulative Messstände · Gewichtete Kennzahlen · Lokale KI-Entwürfe · PDF-Berichte |
+| Trading-Research im Portfolio | Ereignisbasierte Simulation · Gemeinsame Kontoführung · Markt-Replay · Zeitliche Validierung · Klare Ausführungsannahmen |
 | Entwicklungspraxis | Prozessanalyse · Prototypenentwicklung · Workflow-Automatisierung · APIs · Datenvalidierung |
 
 ## KI-Weiterbildung
