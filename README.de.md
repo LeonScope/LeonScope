@@ -8,10 +8,11 @@ Ich komme aus der Robotik und kameragestützten Qualitätsprüfung. Bei ZF habe 
 
 ## Ausgewählte Projekte
 
-Diese neun Anwendungen laufen lokal. Auf den Projektseiten findest du Screenshots, die Überlegungen zur Umsetzung und die Testergebnisse.
+Diese zehn Anwendungen laufen lokal. Auf den Projektseiten findest du Screenshots, die Überlegungen zur Umsetzung und die Testergebnisse.
 
 | Projekt | Was es macht | Zum Weiterlesen |
 | :--- | :--- | :--- |
+| **[Scope Pulse](https://github.com/LeonScope/scope-pulse/blob/main/README.de.md)** | Importiert Social-Media-Kennzahlen, vergleicht Beiträge und erstellt Berichte mit geprüften Vorschlägen eines lokalen Modells. | [Berechnungen, Importe und Modellprüfungen](https://github.com/LeonScope/scope-pulse/blob/main/docs/VERIFICATION.md#deutsch) |
 | **[Scope Clips](https://github.com/LeonScope/scope-clips/blob/main/README.de.md)** | Erstellt kurze Clips aus gesprochenen Videos, mit lokaler Transkription, bearbeitbaren Untertiteln und MP4-Export. | [Medien-, Modell- und Browserprüfungen](https://github.com/LeonScope/scope-clips/blob/main/docs/VERIFICATION.md#deutsch) |
 | **[Scope Trace](https://github.com/LeonScope/scope-trace/blob/main/README.de.md)** | Verfolgt Materialchargen durch Teile, Baugruppen und Lieferungen. Qualitätsfälle halten Sperren, Nachprüfungen und Freigaben fest. | [Rückverfolgung und Ablaufprüfungen](https://github.com/LeonScope/scope-trace/blob/main/docs/VERIFICATION.md#deutsch) |
 | **[Scope Dispatch](https://github.com/LeonScope/scope-dispatch/blob/main/README.de.md)** | Plant technische Serviceeinsätze nach Qualifikation, Ankunftsfenster und Fahrtzeit. Ein lokales Modell bereitet Anfragen zur Prüfung vor. | [Planungsvergleiche und Prüfungen](https://github.com/LeonScope/scope-dispatch/blob/main/docs/VERIFICATION.md#deutsch) |
@@ -73,6 +74,7 @@ Das Projekt ist abgeschlossen. Quellcode und Geschäftsdaten des Auftraggebers b
 | Einsatzplanung im Portfolio | Planung mit Nebenbedingungen · Routenplanung · Lokale KI-Erfassung · Geprüfte Planänderungen |
 | Bauteilrückverfolgung im Portfolio | Materialbeziehungen · Qualitätsfälle · Ereignisverlauf · Geprüfte Importe |
 | Medienverarbeitung im Portfolio | Lokale Spracherkennung · Navigation über das Transkript · FFmpeg · Untertiteldarstellung · Versionierte Exporte |
+| Social-Media-Analyse im Portfolio | Geprüfte CSV-Importe · Kumulative Messstände · Gewichtete Kennzahlen · Lokale KI-Entwürfe · PDF-Berichte |
 | Entwicklungspraxis | Prozessanalyse · Prototypenentwicklung · Workflow-Automatisierung · APIs · Datenvalidierung |
 
 ## KI-Weiterbildung

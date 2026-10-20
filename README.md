@@ -8,10 +8,11 @@ My background is in robotics and camera-based quality inspection. At ZF, I built
 
 ## Selected projects
 
-These nine applications run locally. Each project page includes screenshots, the reasoning behind the implementation and test results.
+These ten applications run locally. Each project page includes screenshots, the reasoning behind the implementation and test results.
 
 | Project | What it does | More detail |
 | :--- | :--- | :--- |
+| **[Scope Pulse](https://github.com/LeonScope/scope-pulse)** | Imports social media metrics, compares posts and prepares reports with reviewed suggestions from a local model. | [Calculations, imports and model checks](https://github.com/LeonScope/scope-pulse/blob/main/docs/VERIFICATION.md) |
 | **[Scope Clips](https://github.com/LeonScope/scope-clips)** | Turns spoken videos into short clips with local transcription, editable captions and MP4 exports. | [Media, model and browser checks](https://github.com/LeonScope/scope-clips/blob/main/docs/VERIFICATION.md) |
 | **[Scope Trace](https://github.com/LeonScope/scope-trace)** | Follows material lots through parts, assemblies and shipments. Quality cases retain holds, rechecks and release decisions. | [Genealogy and workflow checks](https://github.com/LeonScope/scope-trace/blob/main/docs/VERIFICATION.md) |
 | **[Scope Dispatch](https://github.com/LeonScope/scope-dispatch)** | Plans technical service jobs around skills, arrival windows and travel times. A local model prepares requests for review. | [Scheduling comparisons and checks](https://github.com/LeonScope/scope-dispatch/blob/main/docs/VERIFICATION.md) |
@@ -73,6 +74,7 @@ The project is complete. The client's code and business data are confidential. T
 | Service planning portfolio | Constraint-based scheduling · Route planning · Local AI intake · Transactional plan updates |
 | Manufacturing traceability portfolio | Material relationships · Quality cases · Event history · Checked imports |
 | Media processing portfolio | Local speech recognition · Transcript navigation · FFmpeg · Caption rendering · Versioned exports |
+| Social media analysis portfolio | Checked CSV imports · Cumulative measurements · Weighted metrics · Local model drafts · PDF reporting |
 | Engineering | Process analysis · Prototyping · Workflow automation · APIs · Data validation |
 
 ## AI training
